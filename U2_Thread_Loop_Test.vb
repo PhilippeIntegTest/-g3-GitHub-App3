@@ -14,6 +14,10 @@ Public Class U2_Thread_Loop_Test
         TextBox1.Text = "Show Counter Click value Counter= " & Counter_Number_Of_Click.ToString
         TextBox1.BackColor = Color.Azure
 
+        '******************************************************************************
+        '****  Part_1: Show some info about the process    [Branch1]              *****
+        '******************************************************************************
+
 
 
     End Sub
